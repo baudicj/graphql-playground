@@ -1,6 +1,6 @@
 {
   "name": "graphql-playground-html-patched",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "homepage": "https://github.com/graphcool/graphql-playground/tree/main/packages/graphql-playground-html",
   "description": "GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration).",
   "contributors": [
@@ -36,5 +36,5 @@
   "dependencies": {
     "xss": "^1.0.6"
   },
-  "gitHead": "0dab8e4341e50b220e1487cde5f868bec4c301b5"
+  "gitHead": "79a98c8fd0a5fb23f5d97f994a13fcf0ade18f85"
 }

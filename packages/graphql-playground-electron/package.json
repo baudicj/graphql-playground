@@ -1,10 +1,10 @@
 {
-  "name": "graphql-playground-electron",
+  "name": "graphql-playground-electron-patched",
   "productName": "GraphQL Playground",
-  "homepage": "https://github.com/graphcool/graphql-playground",
+  "homepage": "https://github.com/baudicj/graphql-playground",
   "repository": "graphcool/graphql-playground",
   "description": "GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)",
-  "version": "1.10.0",
+  "version": "1.11.0",
   "private": true,
   "author": {
     "name": "Graphcool",

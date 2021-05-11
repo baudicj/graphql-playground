@@ -1,6 +1,6 @@
 {
   "name": "graphql-playground-react-patched",
-  "version": "1.9.0",
+  "version": "1.10.0",
   "main": "./lib/lib.js",
   "typings": "./lib/lib.d.ts",
   "description": "GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration).",
@@ -202,5 +202,5 @@
     ],
     "testRegex": "(/__tests__/.*|\\.(test|spec))\\.(ts|tsx|js)$"
   },
-  "gitHead": "0dab8e4341e50b220e1487cde5f868bec4c301b5"
+  "gitHead": "79a98c8fd0a5fb23f5d97f994a13fcf0ade18f85"
 }
