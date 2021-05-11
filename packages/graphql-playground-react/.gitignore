@@ -9,8 +9,6 @@ example/yarn.lock
 /coverage
 
 # production
-/build
-/dist
 
 # misc
 .DS_Store
