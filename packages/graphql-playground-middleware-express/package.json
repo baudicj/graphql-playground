@@ -35,7 +35,7 @@
     "typescript": "3.8.3"
   },
   "dependencies": {
-    "graphql-playground-html": "^1.8.0"
+    "graphql-playground-html-patched": "^1.8.0"
   },
   "typings": "dist/index.d.ts",
   "typescript": {
