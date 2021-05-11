@@ -2,7 +2,7 @@ import { Request, Response } from 'express'
 import {
   MiddlewareOptions,
   renderPlaygroundPage,
-} from 'graphql-playground-html'
+} from 'graphql-playground-html-patched'
 
 /* tslint:disable */
 
