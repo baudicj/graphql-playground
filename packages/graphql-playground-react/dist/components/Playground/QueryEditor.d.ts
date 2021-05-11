@@ -68,5 +68,5 @@ export declare class QueryEditor extends React.PureComponent<Props & ReduxProps,
     private onHasCompletion;
     private closeCompletion;
 }
-declare const _default: import("react-redux").ConnectedComponent<typeof QueryEditor, Pick<React.ClassAttributes<QueryEditor> & Props & ReduxProps, "ref" | "getRef" | "schema" | "key" | "onHintInformationRender" | "onRunQuery" | "onClickReference" | "showDocForReference">>;
+declare const _default: import("react-redux").ConnectedComponent<typeof QueryEditor, Pick<React.ClassAttributes<QueryEditor> & Props & ReduxProps, "ref" | "getRef" | "schema" | "key" | "onRunQuery" | "onHintInformationRender" | "onClickReference" | "showDocForReference">>;
 export default _default;

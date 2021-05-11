@@ -1,14 +1,15 @@
 {
-  "name": "graphql-playground-middleware-express",
-  "version": "1.8.0",
+  "name": "graphql-playground-middleware-express-patched",
+  "version": "1.8.1",
   "homepage": "https://github.com/graphcool/graphql-playground/tree/main/packages/graphql-playground-middleware-express",
   "description": "GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration).",
   "contributors": [
+    "Julien Baudic <baudicjulien@gmail.com>",
     "Tim Suchanek <tim@graph.cool>",
     "Johannes Schickling <johannes@graph.cool>",
     "Mohammad Rajabifard <mo.rajbi@gmail.com>"
   ],
-  "repository": "http://github.com/graphcool/graphql-playground.git",
+  "repository": "http://github.com/baudicj/graphql-playground.git",
   "license": "MIT",
   "main": "dist/index.js",
   "files": [
@@ -40,5 +41,5 @@
   "typescript": {
     "definition": "dist/index.d.ts"
   },
-  "gitHead": "53d233f9deb9dcc86f99e41268ff92b6367e0713"
+  "gitHead": "61e19b8c85ef7a4758b0acb487230a84cf6db0ce"
 }
