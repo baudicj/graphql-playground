@@ -54,6 +54,6 @@ declare class VariableEditor extends React.PureComponent<Props & ReduxProps> {
     _onEdit: () => void;
     _onHasCompletion: (cm: any, data: any) => void;
 }
-export declare const VariableEditorComponent: import("react-redux").ConnectedComponent<typeof VariableEditor, Pick<React.ClassAttributes<VariableEditor> & Props & ReduxProps, "ref" | "getRef" | "key" | "prettifyQuery" | "onRunQuery" | "onHintInformationRender">>;
-export declare const HeadersEditorComponent: import("react-redux").ConnectedComponent<typeof VariableEditor, Pick<React.ClassAttributes<VariableEditor> & Props & ReduxProps, "ref" | "getRef" | "key" | "variableToType" | "prettifyQuery" | "onRunQuery" | "onHintInformationRender">>;
+export declare const VariableEditorComponent: import("react-redux").ConnectedComponent<typeof VariableEditor, Pick<React.ClassAttributes<VariableEditor> & Props & ReduxProps, "ref" | "getRef" | "key" | "prettifyQuery" | "onHintInformationRender" | "onRunQuery">>;
+export declare const HeadersEditorComponent: import("react-redux").ConnectedComponent<typeof VariableEditor, Pick<React.ClassAttributes<VariableEditor> & Props & ReduxProps, "ref" | "getRef" | "key" | "variableToType" | "prettifyQuery" | "onHintInformationRender" | "onRunQuery">>;
 export {};
