@@ -40,7 +40,7 @@
     "definition": "dist/index.d.ts"
   },
   "dependencies": {
-    "graphql-playground-html": "^1.8.0"
+    "graphql-playground-html-patched": "^1.8.0"
   },
   "gitHead": "79a98c8fd0a5fb23f5d97f994a13fcf0ade18f85"
 }
