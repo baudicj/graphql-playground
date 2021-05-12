@@ -1,6 +1,6 @@
 {
   "name": "graphql-playground-react-patched",
-  "version": "1.10.4",
+  "version": "1.10.5",
   "main": "./lib/lib.js",
   "typings": "./lib/lib.d.ts",
   "description": "GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration).",
@@ -76,7 +76,7 @@
     "file-loader": "6.0.0",
     "filesize": "6.1.0",
     "fs-extra": "5.0.0",
-    "graphql-playground-html-patched": "^1.5.6",
+    "graphql-playground-html-patched": "^1.9.5",
     "gzip-size": "4.1.0",
     "html-webpack-plugin": "4.0.4",
     "http-proxy-middleware": "0.17.4",
